@@ -28,4 +28,5 @@
 - 是否使用过Typescript （加分)
 - 了解常用前端框架 angular/vue.js 等等(加分)
 - 参与过分布式项目或者hadoop等 (加分)
+- 了解 java\php\python等多种语言 (加分)
 
