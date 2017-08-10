@@ -16,6 +16,10 @@
 - 线程与进程区别
 - 面向对象基本思想
 - linux基础
+- javascript 如何实现继承、原理
+- javascript 中 prototype, constructor等等
+- javascript 常用基本类型
+- 浏览器javascript 与 nodejs 异同
 - 使用使用过shell去处理一些问题
 - 完成过那些项目，并且在项目中负责那些功能
 - 是否使用过redis、mongodb等常见菲关系型数据库
