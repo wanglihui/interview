@@ -18,6 +18,10 @@
 - linux基础
 - 使用使用过shell去处理一些问题
 - 完成过那些项目，并且在项目中负责那些功能
+- 是否使用过redis、mongodb等常见菲关系型数据库
 - mysql 中 left join/join 区别, mysql 与 mongodb区别, 以及NoSQL与 关系型数据库用途
 - 通过什么渠道学习、获取新技术
+- 是否使用过Typescript （加分)
+- 了解常用前端框架 angular/vue.js 等等(加分)
+- 参与过分布式项目或者hadoop等 (加分)
 
